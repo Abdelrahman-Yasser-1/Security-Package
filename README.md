@@ -11,10 +11,10 @@ This project contains implementation of some cryptography algorithms using C# la
 - [x] RailFence
 - [x] RepeatingKeyVigenere
 - [x] RSA
-- [ ] MD5 **Not Implemented**
-- [ ] RC4 **Not Implemented**
+- [ ] MD5
+- [ ] RC4
 - [x] AES 
 - [x] DES
-- [ ] TripleDES **Not Implemented**
+- [ ] TripleDES
 - [x] DiffieHellman
-- [ ] ELGAMAL **Not Implemented**
+- [ ] ELGAMAL
